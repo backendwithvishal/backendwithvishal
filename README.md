@@ -60,7 +60,7 @@ const vishal = {
   role: "Backend Developer",
 
   techStack: {
-    languages: ["JavaScript", "TypeScript", "Node.js"],
+    languages: ["JavaScript", "Node.js"],
     backend: ["Express.js", "Socket.io", "REST APIs"],
     databases: ["MongoDB", "Redis", "Mongoose"],
     ai: ["OpenAI", "Groq", "LangChain", "LLM Integration"],
