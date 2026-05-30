@@ -55,7 +55,7 @@ const vishal = {
     "Message queues & event-driven design",
   ],
 
-  learning:  ["Kubernetes", "GraphQL", "System Design"],
+  learning:  ["Java", "Kubernetes", "System Design"],
   openTo:    ["Full-time", "Internships", "Freelance"],
 };
 ```
