@@ -166,62 +166,6 @@ I design and build **robust, scalable backend systems** — from RESTful APIs an
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### Global-Fi Ultra — Financial Data Aggregator
-
-![Status](https://img.shields.io/badge/Status-Production_Ready-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Uptime](https://img.shields.io/badge/Uptime-99%25-22C55E?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-Fault_Tolerant-7C3AED?style=for-the-badge)
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**Stack**
-```
-Node.js · Express.js · Socket.io
-MongoDB · Redis · Docker
-```
-
-**Key Features**
-- Aggregates **6+ external APIs** with real-time WebSocket streaming
-- Circuit breakers & exponential backoff — **99% uptime**
-- **Big.js** arbitrary-precision arithmetic — zero floating-point errors
-- Redis caching eliminates **70% of redundant API calls**
-- Rate limiting, request throttling & API key authentication
-
-</td>
-<td width="50%">
-
-**Performance**
-
-| Metric | Result |
-|---|---|
-| Response latency | 800ms → **200ms** |
-| API call reduction | **−70%** via Redis |
-| Deployment | Multi-stage Docker |
-| Scaling | Horizontal, stateless |
-| Error handling | Graceful + circuit breaker |
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Global-Fi-Ultra)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Deployment-22C55E?style=for-the-badge&logo=render&logoColor=white)](https://global-fi-ultra.onrender.com/)
-[![Documentation](https://img.shields.io/badge/Docs-Read_More-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Web-dev-vishal/Global-Fi-Ultra#readme)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
