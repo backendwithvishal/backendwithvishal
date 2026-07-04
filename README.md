@@ -38,7 +38,7 @@
 const vishal = {
   role:      "Backend Developer",
   location:  "Thane, Maharashtra, India",
-  education: "BCA 3rd Year",
+  education: "Graduate",
 
   stack: {
     languages:  ["JavaScript", "Node.js"],
