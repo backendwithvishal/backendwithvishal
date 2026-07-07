@@ -55,7 +55,7 @@ const vishal = {
     "Message queues & event-driven design",
   ],
 
-  learning:  ["Java", "Gen_AI","LangChain", "System Design"],
+  learning:  ["Generative AI", "Java", "LangChain", "System Design"],
   openTo:    ["Full-time", "Internships", "Freelance"],
 };
 ```
