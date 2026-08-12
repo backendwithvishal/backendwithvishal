@@ -124,6 +124,39 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Web-dev-vishal&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> These cards refresh automatically on every page view — no workflow needed for them.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+- _Recent activity will appear here after the update workflow runs._
+<!--END_SECTION:activity-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 📝 Latest Blog Posts
+
+<!--START_SECTION:blog-->
+- _Blog posts will appear here once `BLOG_RSS_URL` is configured._
+<!--END_SECTION:blog-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 ## ⚡ Skills & Expertise
 
 <div align="center">
