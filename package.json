@@ -1,0 +1,16 @@
+{
+  "name": "profile-readme-automation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Automation that keeps Vishal Sanam's GitHub profile README up to date.",
+  "scripts": {
+    "update": "node scripts/update-readme.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
