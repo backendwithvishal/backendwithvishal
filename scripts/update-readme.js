@@ -2,14 +2,14 @@
 // Updates the <!--START_SECTION--> ... <!--END_SECTION--> blocks in README.md
 // with live data: recent GitHub activity + (optionally) latest blog posts from an RSS feed.
 //
-// Run locally:   GITHUB_USERNAME=Web-dev-vishal node scripts/update-readme.js
+// Run locally:   GITHUB_USERNAME=backendwithvishal node scripts/update-readme.js
 // Run in CI:      handled by .github/workflows/update-readme.yml
 
 import fs from 'fs';
 import path from 'path';
 import Parser from 'rss-parser';
 
-const USERNAME = process.env.GITHUB_USERNAME || 'Web-dev-vishal';
+const USERNAME = process.env.GITHUB_USERNAME || 'backendwithvishal';
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN; // optional, raises rate limit
 const BLOG_RSS_URL = process.env.BLOG_RSS_URL; // optional, e.g. your Medium/Dev.to/Hashnode feed
 const README_PATH = path.join(process.cwd(), 'README.md');
