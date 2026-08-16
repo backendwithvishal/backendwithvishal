@@ -43,36 +43,49 @@ async function fetchActivity() {
     const repo = event.repo?.name;
     if (!repo) continue;
 
+    const eventDate = event.created_at
+      ? new Date(event.created_at).toLocaleDateString('en-IN', { day: 'numeric', month: 'short' })
+      : null;
+    const dateSuffix = eventDate ? ` _(${eventDate})_` : '';
+
     switch (event.type) {
       case 'PushEvent': {
-        const count = event.payload?.commits?.length || 1;
-        lines.push(`🟢 Pushed ${count} commit${count > 1 ? 's' : ''} to [${repo}](https://github.com/${repo})`);
+        const commits = event.payload?.commits || [];
+        // GitHub's public events feed sometimes returns an empty/truncated commits
+        // array (e.g. large pushes, some web-UI edits). payload.size is the true count.
+        const count = commits.length || event.payload?.size || 1;
+        const lastCommit = commits[commits.length - 1];
+        const lastMsg = lastCommit?.message ? lastCommit.message.split('\n')[0].slice(0, 60) : null;
+        const msgSuffix = lastMsg ? `: "${lastMsg}"` : '';
+        lines.push(
+          `🟢 Pushed ${count} commit${count > 1 ? 's' : ''} to [${repo}](https://github.com/${repo})${msgSuffix}${dateSuffix}`
+        );
         break;
       }
       case 'PullRequestEvent': {
         const action = event.payload?.action;
         const num = event.payload?.number;
         const verb = action === 'opened' ? 'Opened' : action === 'closed' ? 'Closed' : action;
-        lines.push(`🔀 ${verb} PR #${num} in [${repo}](https://github.com/${repo})`);
+        lines.push(`🔀 ${verb} PR #${num} in [${repo}](https://github.com/${repo})${dateSuffix}`);
         break;
       }
       case 'IssuesEvent': {
         const action = event.payload?.action;
         const num = event.payload?.issue?.number;
         const verb = action === 'opened' ? 'Opened' : 'Closed';
-        lines.push(`❗ ${verb} issue #${num} in [${repo}](https://github.com/${repo})`);
+        lines.push(`❗ ${verb} issue #${num} in [${repo}](https://github.com/${repo})${dateSuffix}`);
         break;
       }
       case 'WatchEvent':
-        lines.push(`⭐ Starred [${repo}](https://github.com/${repo})`);
+        lines.push(`⭐ Starred [${repo}](https://github.com/${repo})${dateSuffix}`);
         break;
       case 'CreateEvent':
         if (event.payload?.ref_type === 'repository') {
-          lines.push(`🆕 Created repository [${repo}](https://github.com/${repo})`);
+          lines.push(`🆕 Created repository [${repo}](https://github.com/${repo})${dateSuffix}`);
         }
         break;
       case 'ForkEvent':
-        lines.push(`🍴 Forked [${repo}](https://github.com/${repo})`);
+        lines.push(`🍴 Forked [${repo}](https://github.com/${repo})${dateSuffix}`);
         break;
       default:
         break;
