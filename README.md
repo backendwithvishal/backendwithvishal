@@ -144,7 +144,11 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 ## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
-- _Recent activity will appear here after the update workflow runs._
+- 🟢 Pushed 1 commit to [backendwithvishal/backendwithvishal](https://github.com/backendwithvishal/backendwithvishal) _(16 Aug)_
+- 🟢 Pushed 1 commit to [backendwithvishal/backendwithvishal](https://github.com/backendwithvishal/backendwithvishal) _(16 Aug)_
+- 🟢 Pushed 1 commit to [backendwithvishal/backendwithvishal](https://github.com/backendwithvishal/backendwithvishal) _(16 Aug)_
+- 🟢 Pushed 1 commit to [backendwithvishal/LangChain-Code-Notes](https://github.com/backendwithvishal/LangChain-Code-Notes) _(16 Aug)_
+- 🟢 Pushed 1 commit to [backendwithvishal/backendwithvishal](https://github.com/backendwithvishal/backendwithvishal) _(16 Aug)_
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -152,7 +156,7 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 ## 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-->
-- _Blog posts will appear here once `BLOG_RSS_URL` is configured._
+_No blog posts found. Set the `BLOG_RSS_URL` repo secret to enable this section._
 <!--END_SECTION:blog-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
