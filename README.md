@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-sanam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsanam783@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-dev-vishal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backendwithvishal)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9qfX7QHapM)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.vishall)
 
@@ -128,12 +128,12 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=backendwithvishal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendwithvishal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Web-dev-vishal&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=backendwithvishal&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -227,9 +227,9 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 </td>
 <td align="center" width="25%">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-dev-vishal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backendwithvishal)
 
-**@Web-dev-vishal**
+**@backendwithvishal**
 
 </td>
 <td align="center" width="25%">
@@ -252,6 +252,6 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=8B8B9E&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by.+Let%27s+build+together.)](https://git.io/typing-svg)
 
-<sub>Crafted with precision by <a href="https://github.com/Web-dev-vishal">Vishal Sanam</a></sub>
+<sub>Crafted with precision by <a href="https://github.com/backendwithvishal">Vishal Sanam</a></sub>
 
 </div>
