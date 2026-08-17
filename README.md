@@ -137,27 +137,7 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 
 </div>
 
-> These cards refresh automatically on every page view — no workflow needed for them.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 🕒 Recent Activity
-
-<!--START_SECTION:activity-->
-- 🟢 Pushed 1 commit to [backendwithvishal/LangChain-Code-Notes](https://github.com/backendwithvishal/LangChain-Code-Notes) _(16 Aug)_
-- 🟢 Pushed 1 commit to [backendwithvishal/LangChain-Code-Notes](https://github.com/backendwithvishal/LangChain-Code-Notes) _(16 Aug)_
-- 🟢 Pushed 1 commit to [backendwithvishal/backendwithvishal](https://github.com/backendwithvishal/backendwithvishal) _(16 Aug)_
-- 🟢 Pushed 1 commit to [backendwithvishal/backendwithvishal](https://github.com/backendwithvishal/backendwithvishal) _(16 Aug)_
-- 🟢 Pushed 1 commit to [backendwithvishal/backendwithvishal](https://github.com/backendwithvishal/backendwithvishal) _(16 Aug)_
-<!--END_SECTION:activity-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 📝 Latest Blog Posts
-
-<!--START_SECTION:blog-->
-_No blog posts found. Set the `BLOG_RSS_URL` repo secret to enable this section._
-<!--END_SECTION:blog-->
+> These cards refresh automatically on every page view — they're just live image links, no workflow or script needed.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
