@@ -126,18 +126,9 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=backendwithvishal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=backendwithvishal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=backendwithvishal&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-> These cards refresh automatically on every page view — they're just live image links, no workflow or script needed.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
