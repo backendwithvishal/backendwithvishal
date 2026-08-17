@@ -126,6 +126,9 @@ Currently preparing for my **MCA (Master of Computer Applications)** to deepen m
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=backendwithvishal&theme=tokyonight&hide_border=true"/>
 
 </div>
