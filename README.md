@@ -38,7 +38,7 @@
 const vishal = {
   role:      "Backend Developer",
   location:  "Thane, Maharashtra, India",
-  education: "Graduate Complete in (Bachelor of Computer Applications)",
+  education: "Bachelor of Computer Applications (BCA)",
 
   stack: {
     languages:  ["JavaScript", "Node.js"],
@@ -68,8 +68,6 @@ const vishal = {
 
 ### What I Do
 I design and build **robust, scalable backend systems** — from RESTful APIs and real-time WebSocket services to AI-powered backends and fault-tolerant microservices. I care deeply about performance, clean architecture, and systems that handle failure gracefully.
-
-Currently preparing for my **MCA (Master of Computer Applications)** to deepen my foundations in computer science while continuing to build in production.
 
 </td>
 <td width="50%">
