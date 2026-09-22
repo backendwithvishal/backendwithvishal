@@ -43,7 +43,7 @@ const vishal = {
 stack: {
   languages:  ["JavaScript", "Python"],
   backend:    ["Node.js", "Express.js", "FastAPI", "REST APIs", "Socket.IO"],
-  databases:  ["MongoDB", "Redis", PostgresSQL],
+  databases:  ["MongoDB", "Redis", "PostgresSQL"],
   orm_odm:    ["Mongoose", "Prisma"],
   ai:         ["RAG", "LangChain", "LangGraph", "OpenAI", "Groq"],
   devOps:     ["Docker", "GitHub Actions"],
