@@ -40,13 +40,15 @@ const vishal = {
   location:  "Thane, Maharashtra, India",
   education: "Bachelor of Computer Applications (BCA)",
 
-  stack: {
-    languages:  ["JavaScript", "Node.js"],
-    backend:    ["Express.js", "Socket.io", "REST APIs"],
-    databases:  ["MongoDB", "Redis", "Mongoose"],
-    ai:         ["OpenAI", "Groq", "LangChain"],
-    devOps:     ["Docker", "GitHub Actions", "RabbitMQ"],
-  },
+stack: {
+  languages:  ["JavaScript", "Python"],
+  backend:    ["Node.js", "Express.js", "FastAPI", "REST APIs", "Socket.IO"],
+  databases:  ["MongoDB", "Redis", PostgresSQL],
+  orm_odm:    ["Mongoose", "Prisma"],
+  ai:         ["RAG", "LangChain", "LangGraph", "OpenAI", "Groq"],
+  devOps:     ["Docker", "GitHub Actions"],
+  messaging:  ["RabbitMQ"],
+},
 
   currentFocus: [
     "Scalable microservices architecture",
