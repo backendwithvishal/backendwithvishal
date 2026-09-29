@@ -231,5 +231,4 @@ I design and build **robust, scalable backend systems** — from RESTful APIs an
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=8B8B9E&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by.+Let%27s+build+together.)](https://git.io/typing-svg)
 
 <sub>Crafted with precision by <a href="https://github.com/backendwithvishal">Vishal Sanam</a></sub>
-
 </div>
