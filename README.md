@@ -45,7 +45,7 @@ stack: {
   backend:    ["Node.js", "Express.js", "FastAPI", "REST APIs", "Socket.IO"],
   databases:  ["MongoDB", "Redis", "PostgresSQL"],
   orm_odm:    ["Mongoose", "Prisma"],
-  ai:         ["RAG", "LangChain", "LangGraph", "OpenAI", "Groq"],
+  ai:         ["RAG", "LangChain", "LangGraph", "OpenAI", "Groq", "MCP"],
   devOps:     ["Docker", "GitHub Actions"],
   messaging:  ["RabbitMQ"],
 },
@@ -57,7 +57,7 @@ stack: {
     "Message queues & event-driven design",
   ],
 
-  learning:  ["Agentic AI", "Java", "LangGraph", "System Design"],
+  learning:  ["Agentic AI", "System Design"],
   openTo:    ["Full-time", "Internships", "Freelance"],
 };
 ```
